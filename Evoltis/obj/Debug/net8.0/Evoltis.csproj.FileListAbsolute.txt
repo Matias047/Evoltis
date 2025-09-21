@@ -1,0 +1,497 @@
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.csproj.AssemblyReference.cache
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.csproj.CoreCompileInputs.cache
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.MvcApplicationPartsAssemblyInfo.cs
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.MvcApplicationPartsAssemblyInfo.cache
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.sourcelink.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\appsettings.Development.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\appsettings.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\obj\Debug\net8.0\Evoltis.Tests.sourcelink.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\obj\Evoltis.Tests.csproj.nuget.dgspec.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\obj\project.assets.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.exe
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.pdb
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\AutoMapper.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Castle.Core.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\FluentValidation.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Humanizer.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Moq.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\MySqlConnector.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.CodeDom.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\System.Text.Json.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\xunit.abstractions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\xunit.assert.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\xunit.core.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\scopedcss\bundle\Evoltis.styles.css
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets.build.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets.development.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.Evoltis.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.Evoltis.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.build.Evoltis.props
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Evoltis.props
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Evoltis.props
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.csproj.Up2Date
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\refint\Evoltis.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.pdb
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\Evoltis.genruntimeconfig.cache
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\obj\Debug\net8.0\ref\Evoltis.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.Development.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Debug\net8.0\Evoltis.Tests.sourcelink.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Evoltis.Tests.csproj.nuget.dgspec.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\project.assets.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\FluentAssertions.dll
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.Development.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Debug\net8.0\Evoltis.Tests.sourcelink.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Evoltis.Tests.csproj.nuget.dgspec.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\project.assets.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.Development.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Debug\net8.0\Evoltis.Tests.sourcelink.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Evoltis.Tests.csproj.nuget.dgspec.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\project.assets.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.Development.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\appsettings.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.deps.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests.runtimeconfig.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Debug\net8.0\Evoltis.Tests.sourcelink.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\Evoltis.Tests.csproj.nuget.dgspec.json
+E:\Guardar de maquina Educaria\Proyectos\Evoltis\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\bin\Debug\net8.0\Evoltis.Tests\obj\project.assets.json
+E:\Evoltis\bin\Debug\net8.0\appsettings.Development.json
+E:\Evoltis\bin\Debug\net8.0\appsettings.json
+E:\Evoltis\bin\Debug\net8.0\Evoltis.Test\obj\Evoltis.Test.csproj.nuget.dgspec.json
+E:\Evoltis\bin\Debug\net8.0\Evoltis.Test\obj\project.assets.json
+E:\Evoltis\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Evoltis\bin\Debug\net8.0\Evoltis.exe
+E:\Evoltis\bin\Debug\net8.0\Evoltis.deps.json
+E:\Evoltis\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Evoltis\bin\Debug\net8.0\Evoltis.dll
+E:\Evoltis\bin\Debug\net8.0\Evoltis.pdb
+E:\Evoltis\bin\Debug\net8.0\AutoMapper.dll
+E:\Evoltis\bin\Debug\net8.0\Castle.Core.dll
+E:\Evoltis\bin\Debug\net8.0\FluentAssertions.dll
+E:\Evoltis\bin\Debug\net8.0\FluentValidation.dll
+E:\Evoltis\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Evoltis\bin\Debug\net8.0\Humanizer.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Evoltis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Evoltis\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Evoltis\bin\Debug\net8.0\Moq.dll
+E:\Evoltis\bin\Debug\net8.0\MySqlConnector.dll
+E:\Evoltis\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Evoltis\bin\Debug\net8.0\System.CodeDom.dll
+E:\Evoltis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Evoltis\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Evoltis\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Evoltis\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Evoltis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Evoltis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Evoltis\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Evoltis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Evoltis\bin\Debug\net8.0\System.Text.Json.dll
+E:\Evoltis\bin\Debug\net8.0\xunit.abstractions.dll
+E:\Evoltis\bin\Debug\net8.0\xunit.assert.dll
+E:\Evoltis\bin\Debug\net8.0\xunit.core.dll
+E:\Evoltis\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Evoltis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Evoltis\obj\Debug\net8.0\Evoltis.csproj.AssemblyReference.cache
+E:\Evoltis\obj\Debug\net8.0\Evoltis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Evoltis\obj\Debug\net8.0\Evoltis.csproj.CoreCompileInputs.cache
+E:\Evoltis\obj\Debug\net8.0\Evoltis.MvcApplicationPartsAssemblyInfo.cs
+E:\Evoltis\obj\Debug\net8.0\Evoltis.MvcApplicationPartsAssemblyInfo.cache
+E:\Evoltis\obj\Debug\net8.0\Evoltis.sourcelink.json
+E:\Evoltis\obj\Debug\net8.0\scopedcss\bundle\Evoltis.styles.css
+E:\Evoltis\obj\Debug\net8.0\staticwebassets.build.json
+E:\Evoltis\obj\Debug\net8.0\staticwebassets.development.json
+E:\Evoltis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.Evoltis.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.Evoltis.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.build.Evoltis.props
+E:\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Evoltis.props
+E:\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Evoltis.props
+E:\Evoltis\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Evoltis\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Evoltis\obj\Debug\net8.0\Evoltis.csproj.Up2Date
+E:\Evoltis\obj\Debug\net8.0\Evoltis.dll
+E:\Evoltis\obj\Debug\net8.0\refint\Evoltis.dll
+E:\Evoltis\obj\Debug\net8.0\Evoltis.pdb
+E:\Evoltis\obj\Debug\net8.0\Evoltis.genruntimeconfig.cache
+E:\Evoltis\obj\Debug\net8.0\ref\Evoltis.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\appsettings.Development.json
+E:\Pruebas\Evoltis\bin\Debug\net8.0\appsettings.json
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Evoltis.staticwebassets.endpoints.json
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Evoltis.exe
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Evoltis.deps.json
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Evoltis.runtimeconfig.json
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Evoltis.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Evoltis.pdb
+E:\Pruebas\Evoltis\bin\Debug\net8.0\AutoMapper.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Castle.Core.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\FluentAssertions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\FluentValidation.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Humanizer.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Moq.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\MySqlConnector.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.CodeDom.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\System.Text.Json.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\xunit.abstractions.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\xunit.assert.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\xunit.core.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\xunit.execution.dotnet.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Pruebas\Evoltis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.csproj.AssemblyReference.cache
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.csproj.CoreCompileInputs.cache
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.MvcApplicationPartsAssemblyInfo.cs
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.MvcApplicationPartsAssemblyInfo.cache
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.sourcelink.json
+E:\Pruebas\Evoltis\obj\Debug\net8.0\scopedcss\bundle\Evoltis.styles.css
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets.build.json
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets.development.json
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.Evoltis.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.Evoltis.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.build.Evoltis.props
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Evoltis.props
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Evoltis.props
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Pruebas\Evoltis\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.csproj.Up2Date
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.dll
+E:\Pruebas\Evoltis\obj\Debug\net8.0\refint\Evoltis.dll
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.pdb
+E:\Pruebas\Evoltis\obj\Debug\net8.0\Evoltis.genruntimeconfig.cache
+E:\Pruebas\Evoltis\obj\Debug\net8.0\ref\Evoltis.dll
