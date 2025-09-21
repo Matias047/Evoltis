@@ -1,6 +1,0 @@
-@Evoltis_HostAddress = http://localhost:5186
-
-GET {{Evoltis_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
